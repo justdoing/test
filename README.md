@@ -1,3 +1,2 @@
 # test
-My fist git repository.
-测试
+这是测试
